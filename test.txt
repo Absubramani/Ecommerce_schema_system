@@ -1,0 +1,19 @@
+Create ecommerce schema for tables customers, orders, payments
+
+Create ecommerce schema for tables products, categories, inventories
+
+Create ecommerce schema for tables suppliers, purchase_orders, purchase_order_items
+
+Create ecommerce schema for tables carts, cart_items, products
+
+Create ecommerce schema for tables reviews, review_votes
+
+Create ecommerce schema for tables warehouses, inventory_items, stock_movements
+
+Create ecommerce schema for tables customers, subscriptions, subscription_items
+
+Create ecommerce schema for tables products, product_variants
+
+Create ecommerce schema for tables orders, shipments, shipment_events
+
+Create ecommerce schema for tables discounts, coupons, order_coupons

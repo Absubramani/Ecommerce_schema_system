@@ -1,0 +1,7 @@
+streamlit
+torch
+transformers
+os
+re
+json
+datasets
